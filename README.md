@@ -7,3 +7,5 @@ Crie uma aplicação capaz de receber informações de um atleta, bem como calcu
 # MINHA SOLUÇÃO
 
 ![SOLUÇÃO](./IMG/primeira-img.png)     ![SOLUÇÃO](./IMG/segunda-img.png)
+
+![SOLUÇÃO](./IMG/terceira-img.png)
